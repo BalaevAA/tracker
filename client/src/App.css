@@ -26,7 +26,7 @@ body {
 
 .container1 {
     padding: 20px;
-    background-color: rgb(145, 145, 145);
+    background-color: rgb(255, 255, 255);
     box-shadow: var(--box-shadow);
     border-radius: 20px;
     text-align: center;
@@ -35,7 +35,7 @@ body {
 
 .container2 {
     padding: 2em;
-    background-color: rgb(145, 145, 145);
+    background-color: rgb(255, 255, 255);
     box-shadow: var(--box-shadow);
     border-radius: 20px;
     grid-column: 1/2;
@@ -45,7 +45,7 @@ body {
 .container4 {
     padding: 1em;
     /* margin-top: 20px; */
-    background-color: rgb(145, 145, 145);
+    background-color: rgb(255, 255, 255);
     box-shadow: var(--box-shadow);
     border-radius: 20px;
 }
@@ -56,7 +56,7 @@ h1 {
 }
 
 h3 {
-    border-bottom: 1px solid rgb(145, 145, 145);
+    border-bottom: 1px solid rgb(255, 255, 255);
     padding-bottom: 10px;
     margin: 40px 0 10px;
     text-align: center;
@@ -73,7 +73,7 @@ h4 {
 }
 
 .inc-exp-container {
-    background-color: rgb(145, 145, 145);
+    background-color: rgb(255, 255, 255);
     box-shadow: var(--box-shadow);
     padding: 20px;
     display: flex;
@@ -191,4 +191,12 @@ input[type='number'] {
 .textfield {
     color: black;
     text-decoration-color: #000000;
+}
+
+.plasma-ui__lp3b9z-48.kqFjNW {
+    color:#000000;
+}
+
+.plasma-ui__sc-1tj6cdw-51.plasma-ui__lp3b9z-44.ioiAVU.fbtpNm {
+    color:#000000;
 }
