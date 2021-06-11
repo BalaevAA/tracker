@@ -1,9 +1,5 @@
 # Финансовый трекер
 ```
-change config.env file in config folder
-```
-
-```
  npm install
  cd client npm install
  
