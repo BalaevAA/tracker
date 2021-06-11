@@ -1,9 +1,10 @@
 import React from 'react'
+import { Header } from '@sberdevices/plasma-ui';
 
-export const Header = () => {
-  return (
-    <h2>
-      Ну как там с деньгами?
-    </h2>
-  )
+export const Head = () => {
+    return ( <
+        Header title = "Финансовый трекер"
+        logo = "./images/logo"
+        logoAlt = "Logo" / >
+    )
 }
