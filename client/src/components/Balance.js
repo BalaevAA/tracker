@@ -10,11 +10,10 @@ export const Balance = () => {
 
     const total = amounts.reduce((acc, item) => (acc += item), 0).toFixed(2);
 
-    return ( <
-        Container className = "container1" >
-        <
-        h4 > Ваш баланс < /h4> <
-        h1 > { numberWithCommas(total) } < /h1> <
-        /Container>
+    return (
+        <Container className = "container1" >
+            <h4> Ваш баланс </h4> 
+            <h1> { numberWithCommas(total) } </h1> 
+        </Container>
     )
 }
